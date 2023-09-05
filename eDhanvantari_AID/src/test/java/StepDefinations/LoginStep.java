@@ -6,7 +6,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class LoginStep {
-
+//Here we need to initiat chrome browser
 	@Given("User is on login page")
 	public void login_page()
 	{
